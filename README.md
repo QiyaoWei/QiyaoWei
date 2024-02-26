@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI in general and more specifically deep learning theory
 - 🌱 I’m currently learning knowledge
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me q.wei@mail.utoronto.ca
+- 📫 How to reach me qw281@cam.ac.uk
 
 <!---
 QiyaoWei/QiyaoWei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
