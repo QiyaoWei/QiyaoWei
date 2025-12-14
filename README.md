@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @QiyaoWei
-- 👀 I’m interested in AI in general and more specifically deep learning theory
-- 🌱 I’m currently learning knowledge
+- 👀 I’m interested in AI safety and specifically chain of thought monitoring
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me qw281@cam.ac.uk
 
