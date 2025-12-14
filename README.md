@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QiyaoWei
-- 👀 I’m interested in AI safety and specifically chain of thought monitoring
-- 💞️ I’m looking to collaborate on interesting projects
+- 💞️ I’m interested in AI safety and specifically chain of thought monitoring
+- 👀 I’m looking to collaborate on interesting projects
 - 📫 How to reach me qw281@cam.ac.uk
 
 <!---
